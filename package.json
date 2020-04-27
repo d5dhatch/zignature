@@ -1,0 +1,23 @@
+{
+  "name": "email-signature-maker",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.17"
+  },
+  "dependencies": {
+    "clipboard": "^1.5.13",
+    "flexboxgrid": "^6.3.1",
+    "prefixed-reflexbox": "^1.1.7",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "reflexbox": "^2.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "now",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
