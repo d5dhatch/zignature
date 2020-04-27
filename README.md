@@ -1,4 +1,4 @@
-# Virta Email Signature Maker
+# Virta Email Zignature Maker
 https://signaturemaker.now.sh
 
 ## Built with
